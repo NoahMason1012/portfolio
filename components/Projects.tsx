@@ -115,27 +115,7 @@ export default function Projects() {
       stats: { downloads: "5K+", rating: "4.4" },
       completedDate: "2025"
     },
-    {
-      id: "5",
-      title: "Otis AI - Market Your Business",
-      description: "Digital marketing automation platform to run effective ads that grow your business across Facebook, Instagram, and Google.",
-      fullDescription: "Discover the easiest way to advertise your business online. Otis is a digital marketing automation platform to run effective ads that grow your business. Connects your data sources to help you reach both new and existing customers online.",
-      technologies: ["Android", "React Native", "AI/ML", "Facebook Ads API", "Google Ads API"],
-      category: "business",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      playStoreUrl: "https://play.google.com/store/apps/details?id=com.otis",
-      features: [
-        "Automated ad optimization",
-        "Multi-platform advertising (Facebook, Instagram, Google)",
-        "Data source integration (POS, email lists)",
-        "AI-powered customer targeting",
-        "Real-time campaign results",
-        "Pause or edit campaigns anytime",
-        "No long-term budget commitments"
-      ],
-      stats: { downloads: "10K+", rating: "3.6" },
-      completedDate: "2024"
-    },
+    
     {
       id: "6",
       title: "Zyfoo - E-commerce Platform",
@@ -157,27 +137,7 @@ export default function Projects() {
       stats: { downloads: "500+", rating: "4.5" },
       completedDate: "2025"
     },
-    {
-      id: "7",
-      title: "Yourstore - E-commerce App",
-      description: "Create your e-commerce website in just 5 clicks. Complete solution for managing products, inventory, payments, and logistics.",
-      fullDescription: "With Yourstore, create your ecommerce website in just 5 Clicks and take your business online. Yourstore handles everything from managing products, inventory, payments, and logistics. Perfect for clothing, jewelry, grocery, and all types of businesses.",
-      technologies: ["Android", "Flutter", "Multi-payment Integration", "Custom Domain Support"],
-      category: "business",
-      image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
-      playStoreUrl: "https://play.google.com/store/apps/details?id=com.yourstore.io",
-      features: [
-        "Create online store in 5 clicks",
-        "Product catalog with variants",
-        "Multiple payment methods (UPI, Cards, COD)",
-        "Order management system",
-        "Custom domain support",
-        "Google & Facebook integration",
-        "Mobile and web responsive"
-      ],
-      stats: { downloads: "5K+", rating: "2.8" },
-      completedDate: "2024"
-    },
+   
     {
       id: "8",
       title: "Food Delivery App - All in one",
@@ -199,27 +159,7 @@ export default function Projects() {
       stats: { downloads: "10K+", rating: "N/A" },
       completedDate: "2025"
     },
-    {
-      id: "9",
-      title: "Foodies: Order Food Delivery",
-      description: "Food delivery app helping food enthusiasts get desired meals delivered from a plethora of restaurant options in Maldives.",
-      fullDescription: "Foodies is designed for food lovers seeking out variety and freshest flavors. Sharing an immense passion for food, this app helps food enthusiasts get their desired meal delivered right to their doorstep while providing a plethora of options to choose from. Features intuitive design and fast delivery service.",
-      technologies: ["Android", "Kotlin", "Payment Integration", "Order Management"],
-      category: "food",
-      image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=400&fit=crop",
-      playStoreUrl: "https://play.google.com/store/apps/details?id=com.theloopcraft.foodies",
-      features: [
-        "Browse menus from multiple restaurants",
-        "Place orders with a few taps",
-        "Real-time order tracking",
-        "Save favorite restaurants and dishes",
-        "Multiple payment options",
-        "User-friendly interface",
-        "Fast delivery service across Maldives"
-      ],
-      stats: { downloads: "10K+", rating: "3.5" },
-      completedDate: "2024"
-    },
+    
     {
       id: "10",
       title: "Migraine Monitor",
@@ -283,27 +223,7 @@ export default function Projects() {
       stats: { downloads: "2.9K+", rating: "4.5" },
       completedDate: "2016"
     },
-    {
-      id: "13",
-      title: "Business AI: Sales & Marketing",
-      description: "All-in-one AI-powered toolkit with 35+ GPT tools for sales, marketing, communication, and productivity workflows.",
-      fullDescription: "Business AI is your all-in-one toolkit of powerful GPT-powered tools designed to supercharge your sales, marketing, and communication workflows. Create high-quality content, analyze files and images, and boost productivity. Features 35+ AI tools including email writing, presentations, business planning, AI Vision for image analysis, and multi-language support.",
-      technologies: ["Android", "React Native", "GPT AI", "Computer Vision", "NLP"],
-      category: "tools",
-      image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=600&h=400&fit=crop",
-      playStoreUrl: "https://play.google.com/store/apps/details?id=com.businessai",
-      features: [
-        "35+ AI-powered tools for business",
-        "Write emails, letters, presentations, and more",
-        "AI Vision for image analysis and extraction",
-        "Analyze files and URLs for insights",
-        "Create business plans and marketing content",
-        "45+ writing tones and 35+ languages",
-        "Grammar correction and translation tools"
-      ],
-      stats: { downloads: "10K+", rating: "2.5" },
-      completedDate: "2025"
-    }
+    
   ];
 
   const categories = [
